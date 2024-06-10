@@ -1,4 +1,4 @@
-.\utils\config\scripts_configurations.py
+utils/config/* 
 
 __pycache__/
 *.py[cod]
