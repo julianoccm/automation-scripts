@@ -8,6 +8,9 @@ Scripts to automate desktop processes, such as:
  - Back up the work environment
  - Upload files to Google Drive
 
+## How to run?
+In the root folder of this repo, there is a folder called **runners**, inside you will see a series of .bat files, all you need to do is configure your environment with the steps below and run the .bat files.
+
 ## How to set it up?
 
 Create a folder inside the **utils** folder called **config**, and inside it create a file with the name: **scripts_configurations.py.** 
