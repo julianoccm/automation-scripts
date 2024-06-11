@@ -1,1 +1,1 @@
-E:\Workspace\Sdks\Python\3.9\python.exe E:\Workspace\Scripts\start_workspace.py
+E:\Workspace\Sdks\Python\3.9\python.exe E:\Workspace\Projects\automation-scripts\start_workspace.py
